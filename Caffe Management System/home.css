@@ -5,6 +5,7 @@
 	flex-direction: column-reverse;
 	gap: 5rem;
 }
+
 .coffee__left__wrapper {
 	max-width: 350px;
 }
